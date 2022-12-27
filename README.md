@@ -4,7 +4,7 @@
 
 <p align="left">My name is Ayush and I'm a Bachelor's of Technology (Computer Science and Engineering) from Lovely Professional University.</p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey!+Am+Ayush;I+am+an+undergraduate+who+loves+to+Code%2C" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey!+Am+Ayush;I+am+an+undergraduate;who+loves+to+code." alt="Typing SVG" /></a>
 
 ###
 
